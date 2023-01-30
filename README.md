@@ -1,3 +1,4 @@
+![Banner](https://github.com/VelascoCristian/VelascoCristian/blob/main/banner-github.png)
 <h1 align="center">Hi 👋, I'm Velasco Cristian</h1>
 <h3 align="center">Highly motivated and technical-minded individual with a passion for web development and a love for hiking. Currently studying Systems Engineering, seeking to leverage my skills and knowledge to make a valuable contribution in a web development role.</h3> <br>
 
