@@ -22,7 +22,7 @@
  
 <h3 align="left">📞 Connect with me:</h3>
 <p align="left">
-📬 Mail: <a href="mailto:2014apk@gmail.com" target="_blank">2014apk@gmail.com</a> <br>
+📬 Mail: <a href="mailto:VelascoCristian-@hotmail.com" target="_blank">VelascoCristian-@hotmail.com</a> <br>
 🤝 LinkedIn: <a href="https://linkedin.com/in/velasco-cristian-nicolas" target="_blank">Velasco Cristian</a> <br>
 👨‍💻 Hackerrank: <a href="https://www.hackerearth.com/@2014apk" target="_blank">@2014apk</a> <br>
 
